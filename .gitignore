@@ -40,6 +40,10 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+/backend/images
+/src/environments/environment.prod.ts
+/src/environments/environment.ts
+/nodemon.json
 
 # System Files
 .DS_Store
